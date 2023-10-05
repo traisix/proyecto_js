@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.done {
+    text-decoration: line-through;
+    color: red;
+}
+
+h1 {
+  text-align: center;
+}
